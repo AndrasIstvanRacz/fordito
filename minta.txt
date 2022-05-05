@@ -1,0 +1,3 @@
+kis12:=12kis{mm}(***)>=$
+
+<változó><értékadás><konstans><változó><{}kommentár><(**)kommentár><>=token><eof>
